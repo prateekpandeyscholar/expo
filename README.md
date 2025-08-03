@@ -1,2 +1,2 @@
-# Moon is in sky.
+# Moon is in sky. Sky is blue.
 
